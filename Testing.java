@@ -9,6 +9,7 @@ public class Testing {
 		System.out.println("My 3rd line by other user when ohter user offline. and then taking update");
 		System.out.println("My 5th line by user 2 when other user 1 also online. and then taking update");
 		System.out.println("My 4th line by user 1 when other user alos online. and then taking update");
+		System.out.println("Same ling change by user 1 when other user alos online. and then taking update");
 	}
 
 }
