@@ -12,7 +12,7 @@ public class Testing {
 		System.out.println("Same ling change by user 1 when other user alos online. and then taking update");
 		System.out.println("Same ling change by user 2 when other user alos online. and then taking update");
 	sds New changfe before commit
-	User 1 Commit
+	User 1 Commit agin
 	}
 
 }
