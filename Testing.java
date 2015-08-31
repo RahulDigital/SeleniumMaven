@@ -11,7 +11,8 @@ public class Testing {
 		System.out.println("My 4th line by user 1 when other user alos online. and then taking update");
 		System.out.println("Same ling change by user 1 when other user alos online. and then taking update");
 		System.out.println("Same ling change by user 2 when other user alos online. and then taking update");
-	sds New changfe before commit
+		sds New changfe before commit
+		User 2 make changes and Commit - user 1 is online ( on diff lines)
 	User 1 Commit agin - take
 	User 1 make changes and Commit - user 2 is online 
 	}
